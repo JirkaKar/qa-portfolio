@@ -1,0 +1,2 @@
+Tento soubor je dočasný.  
+Sem přijde workflow CI (Continuous Integration) pro GitHub Actions — například automatické spuštění testů a linterů při každém commitu.
